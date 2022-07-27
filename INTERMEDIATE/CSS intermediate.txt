@@ -1,0 +1,74 @@
+
+Block level elements:
+
+It always starts on a new line.
+Takes up the full width avilable.
+It stretch from left to right
+We can set width and height on the element, top/bottom
+
+
+Inline elements:
+
+It doesn't starts on a new.
+It  doesn't takes up the full width available.
+It takes space as necessary
+We can't set width and height on the element
+Example: <span> <a> <img>
+
+
+Inline - Block elements:
+
+We can override display propertyfrom inline to block and vice versa.
+Elements sit next to other elements.
+It doesn't add a line - break after thr element.
+
+
+Static Position:
+
+By default all elements has static position.
+It's not affected by top/bottom/right/left.
+it is always positioned according to the normal flow of the page.
+
+
+Relative position:
+
+It's positioned relative to its normal position.
+It's affected by top/bottom/right/left.
+Other elements behave there is no element.
+
+
+Fixed position:
+
+It's positioned relative to the viewport.
+It's affeced by top/bottom/right/left.
+it doesn't leave gabs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

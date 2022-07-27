@@ -1,0 +1,75 @@
+.static{
+    background-color: blanchedalmond;
+    border: 2px solid black;
+    color: black;
+    width: 50%;
+    padding-left: 2%;
+    position: static;
+    left: 3%;    
+}
+
+.relative{
+    background-color: blanchedalmond;
+    color: black;
+    border: 2px solid black;
+    width: 50%;
+    padding-left: 2%;
+    position: relative;
+    left: 3%;
+    top: 10px;
+
+}
+
+.fixed{
+    background-color: blanchedalmond;
+    color: black;
+    border: 2px solid black;
+    width: 40%;
+    padding-left: 2%;
+    position: fixed;
+    left: 50%;
+    top: 0;
+}
+
+.abp{
+    background-color: blanchedalmond;
+    color: black;
+    border: 2px solid black;
+    width: 60%;
+    padding-left: 2%;
+    position: relative;
+}
+
+.abc1{
+    background-color: blanchedalmond;
+    color: black;
+    border: 2px solid black;
+    width: 50%;
+    padding-left: 2%;
+    position: absolute;
+    right: 0px;
+    top: 10px;
+}
+
+.sticky{
+    background-color: blanchedalmond;
+    color: black;
+    border: 2px solid black;
+    width: 50%;
+    padding-left: 2%;
+    position: sticky;
+    left: 3%;
+    top: 50px;
+}
+
+.th{
+    background-color: blanchedalmond;
+    color: black;
+    border: 2px solid black;
+    width: 20%;
+    padding-left: 2%;
+    height: 10000px;
+    position: relative;
+    left: 3%;
+    top: 50px;
+}

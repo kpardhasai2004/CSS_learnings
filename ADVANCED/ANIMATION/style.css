@@ -1,0 +1,42 @@
+@keyframes changeBgColor{
+  from{
+    color: rgb(42, 111, 172);
+    background-color: rgba(0, 255, 81, 0.761);}
+  to{
+    background-color: rgb(136, 255, 0);
+    color:rgb(0, 0, 0);}
+}
+
+@keyframes movement{
+    from{padding-left: 30%;}
+    to{
+        padding-left: 3%;
+        padding-right: 50%;}
+} 
+
+.div1{
+    height: 100px;
+    width: 50%;
+    border: 3px solid rebeccapurple;
+    animation-name: changeBgColor;
+    animation-duration: 2s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+}
+
+.move{
+    animation-name: movement;
+    animation-duration: 2s;
+    animation-delay: 3s;
+    animation-iteration-count: infinite;
+}
+
+
+
+
+
+
+
+
+
+

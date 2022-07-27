@@ -1,0 +1,56 @@
+COLOUR SELECTION :
+
+In CSS there are different types of colour.
+
+There are 1.RGB 2.RGBA 3.HEXADEIMAL
+
+RGB: In this the colour is decided on the value of red, green and blue.
+
+RGBA: This is also same as RGB but the difference is we can select opacity usingvalue of A
+
+HEXADECIMAL: The colour is selected on the basis on the hexadecimal value specially numbers ranges from 
+	           0 to 9 and alphabets ranges from A to F.
+
+ 
+CSS Specificity:
+
+In this the style to the object is applied on the basis of specificity order.
+
+Inline > id > classes	                > Elements & Pseudo-elements
+	    attributes&
+	    pseudo-classes
+
+CSS Units:
+
+Absolute Unit:
+
+This is not recomended.
+In this since the value is fixed when there is a change in the size of the screen it won't appear properly.
+example: px,cm,mm,etc
+
+Relative Units: 
+
+This is mostly prefered for web devlopment.
+the size changes relatively according to the web browser gives proper view to the user.
+example: vmin,vh,vw
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

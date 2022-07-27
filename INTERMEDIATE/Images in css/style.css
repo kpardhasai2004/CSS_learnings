@@ -1,0 +1,36 @@
+.normal{
+    width: 200px;
+    height: 200px;
+}
+
+.round{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.tr{
+    width: 200px;
+    height: 200px;
+    border-top-right-radius: 50%;
+}
+
+.bl{
+    width: 200px;
+    height: 200px;
+    border-bottom-left-radius: 50%;
+}
+
+.tlr{
+    width: 200px;
+    height: 200px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+.blr{
+    width: 200px;
+    height: 200px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}

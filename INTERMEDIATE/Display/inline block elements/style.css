@@ -1,0 +1,12 @@
+.ib{
+    background-color: blanchedalmond;
+    width: 50%;
+    font-size: x-large;
+    display: inline-block;
+
+}
+
+.none {
+    background-color: blueviolet;
+    display: none;
+}

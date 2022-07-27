@@ -1,0 +1,19 @@
+.container{
+    border:2px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.flex-item1{
+    background-color: blueviolet;
+}
+    
+.flex-item2{
+    background-color:rgb(68,0,255);
+}
+
+.flex-item3{
+    background-color:rgb(255,217,0);
+}
